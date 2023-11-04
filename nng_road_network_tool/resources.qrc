@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/NNG_road_network_Tool" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
