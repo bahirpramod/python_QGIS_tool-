@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/multifeatureinformationupdate" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>

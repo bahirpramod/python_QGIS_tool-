@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/Auto_Grid_Creation" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>

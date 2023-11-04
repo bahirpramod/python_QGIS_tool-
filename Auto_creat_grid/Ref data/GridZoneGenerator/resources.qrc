@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/GridZoneGenerator" >
-        <file>grid.png</file>
-    </qresource>
-</RCC>

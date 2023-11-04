@@ -1,0 +1,14 @@
+{
+  "dbtype":"QPSQL",
+  "host":"172.16.1.33",
+  "port":"5432",
+  "db":"ptp_dev",
+  "user":"ptp_itd",
+  "pwd":"kvf",
+  "schema":"zone",
+  "insert_must_pass_query":"SELECT error.mustpasschecklist({input_lyr},{error_type},{target_lyr},{grid_id});",
+  "insert_query":"SELECT error.inserterror({input_lyr},{error_type},st_geomfromtext('{geom_wkt}',32643),{geom_type},{grid_id},{target_lyr});",
+  "grid_id_query":"SELECT * from audit_log.ptp_getgridprod(st_geomfromtext('{geom_wkt}',32643)) as grid_id;",
+  "delete_query" :"DELETE FROM error.topo_point_error WHERE input_layer={input_lyr} and rule={error_type} and target_layer={target_lyr} and grid_id={grid_id};DELETE FROM error.topo_line_error WHERE input_layer={input_lyr} and rule={error_type} and target_layer={target_lyr} and grid_id={grid_id};DELETE FROM error.topo_polygon_error WHERE input_layer={input_lyr} and rule={error_type} and target_layer={target_lyr} and grid_id={grid_id};"
+
+}

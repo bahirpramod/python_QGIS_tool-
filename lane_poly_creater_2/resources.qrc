@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/lane_poly_creater_2" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>

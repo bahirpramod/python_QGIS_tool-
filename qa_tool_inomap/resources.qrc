@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/qa_tool_inomap" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>

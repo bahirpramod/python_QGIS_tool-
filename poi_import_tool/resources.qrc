@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/poi_import_tool" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>

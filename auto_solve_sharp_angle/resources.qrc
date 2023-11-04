@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/Auto_Solve_Sharp_Angle" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>

@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/transition" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>

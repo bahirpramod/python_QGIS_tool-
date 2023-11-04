@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/plugins/AdvanceDigitize_AutoTrace" >
+        <file>iconAutoTrace.png</file>
+        <file>split.png</file>
+        <file>splitpoly.png</file>
+        <file>reshapePoly.png</file>
+        <file>Image/delta.png</file>
+        <file>Image/lock.png</file>
+        <file>Image/icon.png</file>
+        <file>Image/mActionCaptureLine.png</file>
+        <file>Image/mActionCapturePolygon.png</file>
+        <file>Image/90_on.png</file>
+        <file>Image/90.png</file>
+        <file>Image/off_90_1.png</file>
+        <file>Image/on_90_1.png</file>
+        <file>Image/curveOff.png</file>
+        <file>Image/curve_on.png</file>
+        <file>Image/buffer_off.png</file>
+        <file>Image/buffer_on_1.png</file>
+		<file>fill.png</file>
+		<file>fill_cursor.png</file>
+    </qresource>
+</RCC>
