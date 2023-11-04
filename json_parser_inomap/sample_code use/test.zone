@@ -1,0 +1,15 @@
+{
+    "id": {
+        "s": ""
+    },
+    "boundaries": [{
+            "edges": [{
+                    "waypoints": [
+                    ]
+                }
+            ]
+        }
+    ],
+    "traffic_lights": "",
+    "type": ""
+}

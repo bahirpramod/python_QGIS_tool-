@@ -1,0 +1,10 @@
+{
+	"database": {
+		"host": "localhost",
+		"port": "5432",
+		"db": "inomap_curation_prod",
+		"user": "postgres",
+		"pwd":"pramoddb"
+		
+	}
+}

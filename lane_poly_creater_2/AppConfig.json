@@ -1,0 +1,13 @@
+{
+"database":"inomap_curation_prod",
+"user":"inomap_curation_prod_user",
+"password":"inomap_curation_prod@123",
+"host":"localhost",
+"port":5432,
+"lane_table_columns": {
+	"lane_id": "lane_id"
+}
+}
+
+
+

@@ -1,0 +1,16 @@
+{
+"database":"inomap_curation_prod",
+"user":"postgres",
+"password":"pramoddb",
+"host":"localhost",
+"port":5432,
+"transitions_read_only":["id","transition_id","entrance_id","exit_id","zone","meta_has_qc","meta_fake","meta_preferred","meta_has_traffic_guard"],
+
+"lanes_read_only":["id","lane_id","left_lane_id","right_lane_id","maybe_left_lane_line_reversed_id","meta_has_qc","meta_fake","meta_preferred","meta_has_traffic_guard","maybe_right_lane_line_reversed_id","left_adj_lane_id","right_adj_lane_id","segment_id"],
+
+"segment_read_only":["id","segment_id","nav_path_id","meta_has_qc","meta_fake","meta_preferred","meta_has_traffic_guard"],
+
+"zone_and_lane_lines_read_only":["id","lane_id","zone_id","meta_has_qc","meta_fake","meta_preferred","meta_has_traffic_guard"]
+}
+
+

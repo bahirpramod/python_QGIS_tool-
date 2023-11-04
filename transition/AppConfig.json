@@ -1,0 +1,9 @@
+{
+"database":"inomap_curation_prod",
+"user":"postgres",
+"password":"pramoddb",
+"host":"localhost",
+"port":5432
+}
+
+
