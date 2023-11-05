@@ -7,8 +7,8 @@ name=Multi Feature Information Update
 qgisMinimumVersion=3.0
 description=This plugin is used to update class in multiple selected features of lane poly
 version=0.1
-author=Shubham Udiwal
-email=shubhamud@email.igenesys.com
+author=pramoddb
+email=pramoddb@email.igenesys.com
 
 about=This plugin is used to update feature class for multiple feature from user.
 

@@ -8,8 +8,8 @@
                               -------------------
         begin                : 2023-03-23
         git sha              : $Format:%H$
-        copyright            : (C) 2023 by Shubham Udiwal
-        email                : shubhamud@email.igenesys.com
+        copyright            : (C) 2023 by pramoddb
+        email                : pramoddb@email.igenesys.com
  ***************************************************************************/
 
 /***************************************************************************

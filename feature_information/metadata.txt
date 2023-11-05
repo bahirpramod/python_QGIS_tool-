@@ -7,8 +7,8 @@ name=Feature Information
 qgisMinimumVersion=3.0
 description=This plugin gets the feature information
 version=0.1
-author=Nikhil/Genesys
-email=nikhilja@email.igenesys.com
+author=Genesys
+email=pramoddb@email.igenesys.com
 
 about=This plugin gets the feature information
 

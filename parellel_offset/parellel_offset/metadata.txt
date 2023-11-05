@@ -7,8 +7,8 @@ name=Parellel Offset
 qgisMinimumVersion=3.0
 description=This Plugin offset line feature 
 version=0.1
-author=Shubham Udiwal
-email=shubhamud@email.igenesys.com
+author==pramoddb
+email=pramoddb@email.igenesys.com
 
 about=This plugin is used to offset line features to left or right with round,mitre,bevel type joints.
 

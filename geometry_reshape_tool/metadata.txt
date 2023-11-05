@@ -8,7 +8,7 @@ qgisMinimumVersion=3.0
 description=This plugin used for reshape existing geometry
 version=0.1
 author=Genesys
-email=gulabm@email.igenesys.com
+email=pramoddb@email.igenesys.com
 
 about=Provide a brief description of the plugin and its purpose.
 

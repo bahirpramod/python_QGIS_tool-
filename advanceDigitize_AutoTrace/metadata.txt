@@ -9,7 +9,7 @@ description=An editing tool for QGIS that allows users to 'trace' new
     feature geometry based on existing features Advanced Digitizing Polygon and Polyline and Option for drawing convex hull
 version=0.1
 author=Genesys
-email=gulabm@email.igenesys.com
+email=pramoddb@email.igenesys.com
 
 about=Provide a brief description of the plugin and its purpose.
 

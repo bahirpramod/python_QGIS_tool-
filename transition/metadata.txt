@@ -7,8 +7,8 @@ name=Transition
 qgisMinimumVersion=3.0
 description=Creation of transition
 version=0.1
-author=Nikhil
-email=nikhilja@email.igenesys.com
+author=Pramoddb
+email=pramoddb@email.igenesys.com
 
 about=Creation of transition.
 

@@ -8,7 +8,7 @@ qgisMinimumVersion=3.0
 description=This plugin is used for dangle error resolver
 version=0.1
 author=Genesys
-email=nurjahansh@email.igenesys.com
+email=pramoddb@email.igenesys.com
 
 about=Provide a brief description of the plugin and its purpose.
 

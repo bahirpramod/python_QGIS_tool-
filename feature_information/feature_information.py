@@ -8,8 +8,8 @@
                               -------------------
         begin                : 2022-11-08
         git sha              : $Format:%H$
-        copyright            : (C) 2022 by Nikhil/Genesys
-        email                : nikhilja@email.igenesys.com
+        copyright            : (C) 2022 by Genesys
+        email                : pramoddb@email.igenesys.com
  ***************************************************************************/
 
 /***************************************************************************
